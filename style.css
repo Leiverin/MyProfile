@@ -31,15 +31,15 @@
 .circular--landscape{
      display: inline-block;
      position: relative;
-     width: 200px;
-     height: 200px;
+     width: 150px;
+     height: 150px;
      overflow: hidden;
      border-radius: 50%;
 }
 .circular--landscape img{
      width: auto;
      height: 100%;
-     margin-left: -78px;
+     margin-left: -60px;
      cursor: pointer;
      transition: all 0.5s;
 }
@@ -67,7 +67,7 @@
 @media (max-width: 1500px) {
      .infor-main{
           position: absolute;
-          margin-left: -20%;
+          margin-left: -30%;
           left: 50%;
           top: 50%;
           margin-top: -280px;
